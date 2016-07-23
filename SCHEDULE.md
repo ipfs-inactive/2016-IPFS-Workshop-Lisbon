@@ -26,7 +26,9 @@ IPFS Workshop Schedule
 | 10:10h | talk     | Futuristic Connectivity    | Lars
 | 10:20h | talk     | IPFS Infrastructure        | Lars
 | 10:40h | talk     | Orbit and Orbit-db         | Samuli
-| 11:00h | talk     | Guest presenatations       | Sign up! :)
+| 11:00h | meta     | Guest presenatations       | Sign up! :)
+| 11:00h | talk     | Matrix.org + IPFS = ?      | Erik Johnston
+| 11:20h | meta     | Guest presentations (cont) | Sign up! :)
 | 12:30h | open     | Lunch Break                | --
 | 14:00h | --       | Open Hacking Time          | --
 | 18:00h | --       | end of day 2               | --
