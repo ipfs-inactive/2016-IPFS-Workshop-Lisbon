@@ -16,3 +16,7 @@ The 2016 Q3 Workshop was announced in [this thread in ipfs/community](https://gi
 ## Contribute
 
 Please add issues for things you would like to see happen at this workshop! Use [this issue template](https://github.com/ipfs/2016-Q3-Workshop/issues/3). Or, open issues if you have other questions.
+
+## Schedule
+
+[View the Schedule here](https://github.com/ipfs/2016-Q3-Workshop/blob/master/SCHEDULE.md)
