@@ -17,6 +17,14 @@ The 2016 Q3 Workshop was announced in [this thread in ipfs/community](https://gi
 
 Please add issues for things you would like to see happen at this workshop! Use [this issue template](https://github.com/ipfs/2016-Q3-Workshop/issues/3). Or, open issues if you have other questions.
 
+## Location
+Beta-i
+Av. Casal Ribeiro 28, 1000-092 Lisboa
+Look for the CTT Bank*
+Take the elevators to the 8th floor and look for the IPFS Workshop signs.
+
+During the day we will also have use of meeting rooms on the 3rd floor, which will be marked with IPFS signs as well.
+
 ## Schedule
 
 #### Day 1
