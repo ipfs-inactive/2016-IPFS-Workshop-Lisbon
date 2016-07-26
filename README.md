@@ -46,17 +46,30 @@ During the day we will also have use of meeting rooms on the 3rd floor, which wi
 
 > Guest presentations, idea lightround`*`, open hack time, hack showcase and sum up of the workshop.
 
-| Time   | Type     | Session                    | Speaker
-|:-------|:---------|:---------------------------|:-------
-| 10:00h | --       | people arrive and set up   | --
-| 10:10h | talk     | Futuristic Connectivity    | Lars
-| 10:20h | talk     | IPFS Infrastructure        | Lars
-| 10:40h | talk     | Orbit and Orbit-db         | Samuli
-| 11:00h | meta     | Guest presentations        | Sign up! :)
-| 11:00h | talk     | Matrix.org + IPFS = ?      | Erik Johnston
-| 11:20h | meta     | Guest presentations (cont) | Sign up! :)
-| 12:30h | open     | Lunch Break                | --
-| 14:00h | --       | Open Hacking Time          | --
-| 18:00h | --       | end of day 2               | --
-
-`*` idea lightround will be a session for IPFS contributors and enthusiasts to share one idea in under 2 minutes of what they want to implement with IPFS.
+| Time   | Type       | Session                    | Speaker
+|:-------|:-----------|:---------------------------|:-------
+| 10:00h | --         | people arrive and set up   | --
+| 10:30h | planning   | Picking Sessions           | @jbenet
+| 11:00h | talk       | Matrix.org + IPFS = ?      | Erik Johnston
+| 11:20h | talk       | Peergos + IPFS             | @ianopolous
+| 11:40h | talk       | IPFS Gateway               | @lgierth
+| 12:00h | talk       | Gx - Package Mgr on IPFS   | @whyrusleeping
+| 12:15h | open       | LUNCH BREAK (food court)   | --
+| 13:30h | planning   | review sesssions           | @jbenet
+| 13:45h | talk       | Mapping Service            | @mikolalysenko
+| 14:30h | discussion | Mapping Discussion         | @mikolalysenko
+| 14:30h | discussion | PubSub Interfaces          | @haadcode
+| 14:30h | discussion | libp2p + Matrix            | @jbenet
+| 15:00h | discussion | Packet Switching           | @lgierth
+| 15:00h | discussion | IPLD Data Importers        | @jbenet @nicola
+| 15:30h | discussion | IPLD Transformations       | @jbenet @nicola
+| 15:50h | open       | BREAK                      | --
+| 16:10h | talk/disc  | Secure MultiParty Computation | Alvaro
+| 16:40h | discussion | Human Friendly Naming      | ?
+| 16:40h | discussion | IPFS Cluster               | @whyrusleeping
+| 16:40h | discussion | Key Recovation + Rotation  | @diasdavid
+| 17:10h | tutorial   | js-ipfs tutorial           | @diasdavid
+| 17:10h | discussion | multihash interfaces       | @jbenet
+| 17:40h | discussion | Bitswap Strategies         | @jbenet
+| 18:00h | meta       | Retrospective              | @jbenet
+| 19:00h | open       | DINNER @ Honorato          | --
