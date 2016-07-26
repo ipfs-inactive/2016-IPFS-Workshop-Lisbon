@@ -34,13 +34,19 @@ During the day we will also have use of meeting rooms on the 3rd floor, which wi
 | Time   | Type       | Session                            | Speaker
 |:-------|:-----------|:-----------------------------------|:-------
 | 10:00h | --         | People arrive and set up           | --
-| 10:15h | talk       | Welcome to the IPFS Workshop       | Juan and David
-| 10:30h | talk       | The State of IPFS, IPLD and libp2p | Juan
-| 11:15h | talk       |                                    | --
-| 11:30h | talk       | Rapid Fire Projects Showcase       | Juan
+| 10:15h | prep       | welcome, room, streaming prep      | --
+| 11:00h | talk       | The State of IPFS, IPLD and libp2p | @jbenet
 | 12:30h | open       | Lunch Break                        | --
-| 14:00h | discussion | Problem Solving Sessions           | --
-| 18:00h | --         | end of day 1                       | --
+| 14:30h | planning   | session: ideas + lightning talks   | @flyingzumwalt
+| 15:00h | talk       | Project Showcase                   | @jbenet
+| 15:30h | planning   | session: voting                    | @flyingzumwalt
+| 16:00h | discussion | IPLD: Selectors                    | @jbenet @nicola
+| 17:00h | discussion | Pub Sub Overview                   | @jbenet
+| 17:00h | discussion | Dynamic content on IPFS, orbit-db  | @haadcode
+| 18:00h | open       | end of day 1                       | --
+| 19:00h | open       | DINNER @ Honorato                  | --
+
+**NOTE: the times above are not exact. please correct them if you have better data.**
 
 #### Day 2
 
@@ -71,5 +77,6 @@ During the day we will also have use of meeting rooms on the 3rd floor, which wi
 | 17:10h | tutorial   | js-ipfs tutorial           | @diasdavid
 | 17:10h | discussion | multihash interfaces       | @jbenet
 | 17:40h | discussion | Bitswap Strategies         | @jbenet
+| 18:00h | open       | end of day 2               | --
 | 18:00h | meta       | Retrospective              | @jbenet
 | 19:00h | open       | DINNER @ Honorato          | --
